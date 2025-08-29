@@ -5,7 +5,7 @@
 
 ## Why did I chose this dataset?
 
- I wanted to do a data analysis project on the economic clash between the United States and China. Specifically, I wanted to investigate how a country's infrastructure impacts its economic well being. Using data about the growth of an economy (due to infra) using indicators from the world bank, I can predict how China and the USA’s infrastructure policies impact their economies.
+ I wanted to do a data analysis project on the economic clash between the United States and China. Specifically, I wanted to investigate how a country's infrastructure impacts its economic well being. Using data about the growth of an economy (due to infra) using indicators from the world bank, I can predict how China and the USA’s infrastructure policies impact their economies. My theory is that infrastructure and economic growth are proportional up until a point, then infrastructure investment becomes less and less effective for growing the economy. UNFORTUNATELY, THE DATA FROM THSI DATASET DID NOT PROVIDE GOOD ENOUGH DATA FOR ME TO FIND OUT.
 
 ## Questions
 - [ ] Question 1: What countries comprise the 20 largest GDPs in the world?
